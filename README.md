@@ -6,7 +6,7 @@ Not sure how we settled on the name _banana-bodie_, but here it is!
 
 ### April 3, 2021
 
-1. Visit the [following Code Sandbox](https://codesandbox.io/s/bodie-exercise-01-8vg8u) and make the following changes
+1. Edit the [following Code Sandbox](https://codesandbox.io/s/bodie-exercise-01-8vg8u) and make the following changes
 1. Inside the `index.css` file, I would like a bunch of rules defined:
     * heading 1 should have `red` text colour
     * heading 2 should have a `orange` background colour
